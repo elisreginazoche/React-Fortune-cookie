@@ -1,2 +1,4 @@
-cd React-Fortune-cookie 
-npm start 
+# cd React-Fortune-cookie 
+# npm install
+# npm start 
+
